@@ -1,0 +1,52 @@
+h1 {margin:0!important;}
+.nav {height: 80px; border-bottom: 1px solid #f0f2f7; color: #343e5b; font: 400 14px Montserrat;}
+.box {display:flex;}
+.cont {width:85%; margin: auto; }
+.nav div {flex:6; align-items: center;}
+.menu {flex:1!important; border-right: 1px solid #f0f2f7; height: 80px;}
+.logo {flex:4!important;}
+.sag {flex:4!important; text-align: right;}
+.menu .btn{position: relative; top:20px;left:-40px; color:#343e5b; }
+.menu i{font-size: 40px!important;}
+.menu ul li {margin-left: 0!important;}
+h1 {font-size: 10px; margin-left: 20px!important;}
+.nav ul li {display: inline-block; margin-left: 30px;}
+.nav ul li a{color: #343e5b; font: 400 14px Montserrat;}
+.navbar {padding-top: 15px;}
+.navbar span{color: #b9bed1; font: 400 11px Montserrat; margin-right: 25px; transition: all 1s; cursor: pointer;}
+.navbar span:hover {color:#000;}
+.navbar div {flex:1;}
+.navbar i {float: right; margin-right: 13px; margin-left: 15px;}
+section {background-color: #e4e5e7; height: auto;}
+.bar {padding: 10px; background-color: #fff; border-radius: 5px; display: flex; align-items: center;}
+.bar div {flex:1;  padding: 5px;}
+.ana {display: flex;margin-top: 15px;}
+.sidebar {flex:1; display: flex; flex-direction: column;}
+.bloklar { display: flex; flex-direction: row-reverse; justify-content: space-around;}
+.alan {flex:1;}
+.blok {padding: 20px; background-color: #fff; width:90%; margin-top: 5px; float: right; text-align: center; color: #b9c0d3; height: 500px;}
+.blok b {color: #1c1d23; font: 400 16px / 20px Montserrat;}
+.blok span {color: #343e5b; font: 400 14px / 20px Montserrat;}
+.vertikal {display: flex; flex-direction: column; flex:4;}
+.collection i{float: right;}
+.blok img {width:100%;}
+
+.best {background-color: #fff; text-align: center; padding-top: 8px;}
+.produc {display: flex; border-top:1px solid #f0f2f7; border-radius: 4px; height: 300px;}
+.produc div {flex:1; border: 1px solid #f0f2f7; text-align: center;}
+.produc span {color: #b9c0d3; font: 400 14px Montserrat; margin-right: 10px;}
+.produc b {color: #343e5b; font: 400 16px Montserrat;}
+.best h5 {color: #343e5b; font: 400 11px Montserrat;}
+
+.ustfooter {padding: 20px; background-color: #fff; text-align: center;}
+.ustfooter h3{color: #222328;font: 900 32px Montserrat;}
+.ustfooter .slogan {color: #b9bed1; font: italic 16px CrimsonText;}
+.ustfooter .chip p {color: #3a405b; font: 16px / 24px CrimsonText;}
+.ustfooter div {flex:1;}
+
+footer {background-color: #222328; color:#fff;}
+footer hr {background-color:red;}
+footer .box div {flex:1;}
+footer img {float: right}
+footer ul li {float: left; margin-right: 30px;}
+.clear {clear: both;}
